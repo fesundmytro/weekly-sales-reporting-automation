@@ -1,0 +1,5 @@
+2026-07-27 13:49:18,951 | INFO | Current weekly file: C:\Users\Mi Notebook\Desktop\project3_weekly_reporting\input\sales_2014-12-28.csv
+2026-07-27 13:49:18,998 | INFO | Read sales_2014-12-28.csv with encoding utf-8-sig
+2026-07-27 13:49:19,048 | INFO | Previous weekly file: C:\Users\Mi Notebook\Desktop\project3_weekly_reporting\input\sales_2014-12-21.csv
+2026-07-27 13:49:19,060 | INFO | Read sales_2014-12-21.csv with encoding utf-8-sig
+2026-07-27 13:49:20,215 | INFO | Report created: C:\Users\Mi Notebook\Desktop\project3_weekly_reporting\reports\weekly_sales_report_2014-12-28.xlsx

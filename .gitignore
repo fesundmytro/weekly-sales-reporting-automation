@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local input data
+sales_clean.csv
+input/*.csv
+!input/.gitkeep
+
+# Generated files
+reports/*.xlsx
+!reports/.gitkeep
+logs/*.log
+!logs/.gitkeep
