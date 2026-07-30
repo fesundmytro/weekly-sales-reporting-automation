@@ -12,13 +12,16 @@ The script reduces the workflow to:
 2. Run one command or wait for the scheduled task.
 3. Open the generated Excel report in `reports/`.
 
-Target process time:
+## Automation Impact
 
-- manual workflow: approximately 3 hours per week;
-- automated workflow: approximately 2 minutes per run;
-- estimated annual time saving: approximately 154 hours.
+Demonstration business scenario:
 
-Replace these estimates with measured values if the project is used in a real environment.
+- estimated manual preparation: approximately 3 hours per week;
+- automated report generation: measured locally after setup;
+- potential annual time saving depends on the real reporting process.
+
+The manual-time estimate is illustrative and does not represent
+a production deployment.
 
 ## Workflow
 
@@ -35,6 +38,16 @@ Formatted Excel report
     ↓
 Log file
 ```
+
+## Data Source and Privacy
+
+The demonstration workflow uses the public Global Superstore dataset:
+
+[Global Superstore dataset on Kaggle](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset)
+
+The project reproduces a realistic weekly reporting scenario using
+public data. No employer, customer, or confidential business data
+is included.
 
 ## Data Cleaning Rules
 
